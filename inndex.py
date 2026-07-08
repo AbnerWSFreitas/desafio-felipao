@@ -1,1 +1,2 @@
-abcd
+nome = "Abner"
+print("Olá, ", nome)
